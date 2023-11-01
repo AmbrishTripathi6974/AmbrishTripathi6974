@@ -39,7 +39,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ambrishtripathi6974&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambrishtripathi6974&show_icons=true&locale=en&layout=compact" alt="ambrishtripathi6974" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambrishtripathi6974&show_icons=true&theme=dracula&hide=stars,issues&locale=en&layout=compact" alt="ambrishtripathi6974" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambrishtripathi6974&show_icons=true&theme=dracula&hide=stars,issues&locale=en" alt="ambrishtripathi6974" /></p>
 
