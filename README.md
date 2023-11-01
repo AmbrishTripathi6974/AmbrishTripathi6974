@@ -43,5 +43,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambrishtripathi6974&show_icons=true&theme=dracula&hide=stars,issues&locale=en" alt="ambrishtripathi6974" /></p>
 
+<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambrishtripathi6974&theme=dracula&hide=stars,issues" alt="ambrishtripathi6974" /></p>
 
