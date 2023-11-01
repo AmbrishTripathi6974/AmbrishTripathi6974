@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ambrish Tripathi</h1>
 <h3 align="center">I am a creative and passinate flutter developer</h3>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambrishtripathi6974&label=Profile%20views&color=0e75b6&style=flat" alt="ambrishtripathi6974" /> </p>
 
 - 🔭 I’m currently working on [Task Management App](https://github.com/AmbrishTripathi6974/TaskOrganiza)
