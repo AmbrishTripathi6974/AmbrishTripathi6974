@@ -33,7 +33,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ambrishtripathi6974&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambrishtripathi6974&show_icons=true&locale=en&layout=compact" alt="ambrishtripathi6974" /></p>
 
