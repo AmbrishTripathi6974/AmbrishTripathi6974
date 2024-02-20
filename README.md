@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Mn8TLaQgHwWnOMVswslT8d33fnC97y7/view?usp=sharing](https://drive.google.com/file/d/10Mn8TLaQgHwWnOMVswslT8d33fnC97y7/view?usp=sharing)
 
-- ⚡ Fun fact **I play Batminton and video games**
+- ⚡ Fun fact **I play Badminton and video games**
 
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
