@@ -22,7 +22,7 @@
 class Ambrish extends FlutterDeveloper {
   final String location    = "India 🇮🇳";
   final String focus       = "Mobile-first cross-platform apps";
-  final List<String> stack = ["Flutter", "Dart", "Firebase", "Laravel", "BLoC/Riverpod"];
+  final List<String> stack = ["Flutter", "Dart", "Firebase", "BLoC/Riverpod"];
   final List<String> hobbies = ["Badminton 🏸", "Gaming 🎮", "Open Source 💡"];
 
   @override
