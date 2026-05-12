@@ -42,7 +42,7 @@ class Ambrish extends FlutterDeveloper {
 
 | 🔭 Working On | **Sherpa AI** @ [Darwix AI](https://www.darwix.ai/) 🤖 |
 |---|---|
-| 🤝 Collaborating On | [TIB – Ed-Tech Web Platform](https://github.com/AmbrishTripathi6974/tib-1) |
+| 🤝 Collaborating On | [Zulip](https://github.com/zulip/zulip-flutter) |
 | 🌱 Learning | `AI/ML` · `Agentic AI` · `DevOps` · `CI/CD` |
 | 💬 Ask Me About | Flutter · Dart · C/C++ · Firebase |
 | 📄 My Resume | [View Here](https://drive.google.com/file/d/1F8v-POUeRkAc2mHPJwSTVF-77puKfsOX/view?usp=drive_link) |
