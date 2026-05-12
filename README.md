@@ -29,7 +29,7 @@ class Ambrish extends FlutterDeveloper {
   String get currentWork => "Sherpa AI @ Darwix AI 🤖 → darwix.ai";
 
   @override
-  String get currentlyLearning => "AI/ML · Agentic AI · Riverpod · BLoC · Laravel";
+  String get currentlyLearning => "AI/ML · Agentic AI · DevOps";
 
   @override
   String toString() => "Creative dev who ships clean, scalable mobile apps.";
